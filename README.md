@@ -5,6 +5,10 @@
   <h1 align="center">OpenHands: Code Less, Make More</h1>
 </div>
 
+<div align="center">
+  <a href="README.md">English</a> | <a href="README.ja.md">日本語</a>
+</div>
+
 
 <div align="center">
   <a href="https://github.com/All-Hands-AI/OpenHands/graphs/contributors"><img src="https://img.shields.io/github/contributors/All-Hands-AI/OpenHands?style=for-the-badge&color=blue" alt="Contributors"></a>
